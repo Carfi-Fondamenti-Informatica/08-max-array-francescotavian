@@ -1,4 +1,4 @@
-#ifndef ESERCITAZIONE_8_LIBRERIA_H
-#define ESERCITAZIONE_8_LIBRERIA_H
+#ifndef ESERCITAZIONE_8_LIB_H
+#define ESERCITAZIONE_8_LIB_H
 float massimo(float arr[], int d);
-#endif //ESERCITAZIONE_8_LIBRERIA_H
+#endif //ESERCITAZIONE_8_LIB_H
