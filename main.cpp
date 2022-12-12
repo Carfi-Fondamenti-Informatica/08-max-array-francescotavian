@@ -8,6 +8,7 @@ int main() {
     for (int i=0;i<d;i++){
         cin>>arr[i];
     }
-    cout<<massimo(arr,d);
+    a = massimo(arr,d);
+    cout<< a;
     return 0;
 }
