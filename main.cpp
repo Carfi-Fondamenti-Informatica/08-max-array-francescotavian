@@ -8,4 +8,5 @@ int main() {
     float arr[d];
     riempi(arr,d);
     cout<<massimo(arr,d);
+    return 0;
 }
