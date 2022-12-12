@@ -8,7 +8,7 @@ int main() {
     for (int i=0;i<d;i++){
         cin>>arr[i];
     }
-    a = massimo(arr,d);
+    float a = massimo(arr,d);
     cout<< a;
     return 0;
 }
